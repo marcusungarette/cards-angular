@@ -22,7 +22,7 @@ export class AppComponent {
     {
       title: 'Montain Biking',
       imageUrl: 'assets/biking.jpeg',
-      username: 'biking1222',
+      username: 'biking12222',
       content: 'I did some biking today',
     },
   ];
